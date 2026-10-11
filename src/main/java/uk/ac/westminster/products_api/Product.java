@@ -19,6 +19,7 @@ public class Product {
         return id;
     }
 
+    //used ctrl + / to comment it
     public String getName() {
         return name;
     }
