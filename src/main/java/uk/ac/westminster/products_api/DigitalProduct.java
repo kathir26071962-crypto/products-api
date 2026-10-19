@@ -1,6 +1,6 @@
 package uk.ac.westminster.products_api;
 
-public class DigitalProduct entends Product{
+public class DigitalProduct extends Product {
     private String downloadUrl;
     private double fileSizeMB;
 
